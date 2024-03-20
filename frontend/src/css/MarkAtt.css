@@ -1,0 +1,52 @@
+
+.mark-att-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .mark-att-form {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .mark-att-form h2 {
+    margin-bottom: 20px;
+    font-size: 1.5rem;
+  }
+  
+
+  .mark-att-input {
+    margin-bottom: 15px;
+  }
+  
+  .mark-att-input label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .mark-att-input input[type="number"],
+  .mark-att-input select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+
+  .mark-att-button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .mark-att-button:hover {
+    background-color: #0056b3;
+  }
+  
